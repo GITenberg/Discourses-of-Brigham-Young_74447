@@ -1,5 +1,8 @@
 _repo: Discourses-of-Brigham-Young_74447
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74447-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Brigham
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1593
     wikipedia: https://en.wikipedia.org/wiki/John_A._Widtsoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74447#Discourses-of-Brigham-Young
 gutenberg_issued: '2024-09-20'
 gutenberg_type: Text
 identifiers:
